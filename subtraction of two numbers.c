@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main() {
     int number1,number2,result;
     printf("Enter two integers:");
