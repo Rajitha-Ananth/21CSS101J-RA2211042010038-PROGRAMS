@@ -1,6 +1,6 @@
 #include<stdio.h>
-printf("RA2211042010038\n");
 void main(){
+    printf("RA2211042010038\n");
     int x = 10;
     int y = 10; 
     x >>= y; 
