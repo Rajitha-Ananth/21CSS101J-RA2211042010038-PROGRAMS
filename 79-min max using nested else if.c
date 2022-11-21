@@ -2,6 +2,7 @@
  int main() {
  	int a,b,c,max,min;
  	printf("Enter 3 numbers : ");
+  printf("RA2211042010038\n");
  	scanf("%d%d%d",&a,&b,&c);
  	if(a>b && a>c) {
  		max=a;
