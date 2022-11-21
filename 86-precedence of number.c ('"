@@ -1,6 +1,7 @@
 #include <stdio.h>
 void main() {
 	int a = 10, b = 20, c;
+	printf("RA2211042010038\n");
 	c = (a+b)/2;
 	printf("Average of 2 numbers = %d\n", c);
 } //here ans wil be 15 and precedence of / is higher than *
