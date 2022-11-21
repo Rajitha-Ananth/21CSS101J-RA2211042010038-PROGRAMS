@@ -1,6 +1,7 @@
 #include <stdio.h>
 void main() {
 	int num;
+	printf("RA2211042010038\n");
 	printf("Enter a number : ");
 	scanf("%d", &num);
 	if (num%3==0) {
