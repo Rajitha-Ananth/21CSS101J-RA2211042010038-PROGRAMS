@@ -3,6 +3,7 @@ void main() {
     int i,count;
     float height,weight;
     count=0;
+    printf("RA2211042010038\n");
     printf("enter the weight and height of th boys:\n");
     for(i=0;i<=10;i++) {
         scanf("%f%f",&weight,&height);
