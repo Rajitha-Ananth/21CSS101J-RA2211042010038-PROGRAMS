@@ -4,7 +4,6 @@ void main() {
   int n,m,i,j;
   int marks,roll_number,total;
   printf("RA2211042010038\n");
-  printf("RA2211042010038\n");
   printf("enter number of students and subjects");
   scanf("%d%d",&n,&m);
   for(i=0;i<=n;i++) {
