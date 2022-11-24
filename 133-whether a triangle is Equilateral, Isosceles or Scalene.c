@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()  {  
-    int sidea, sideb, sidec; 
+    int sidea, sideb, sidec;
+    printf("RA2211042010038\n");
     printf("enter three sides of triangle: ");  
     scanf("%d%d%d",&sidea,&sideb,&sidec);  
     if(sidea==sideb && sideb==sidec)
