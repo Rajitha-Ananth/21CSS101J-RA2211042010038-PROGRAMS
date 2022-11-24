@@ -2,6 +2,7 @@
 # include <string.h>
 int main() {
     int n,x=0;
+    printf("RA2211042010038\n");
     printf("entera integer number:");
     scanf("%d",&n);
     while(n!=1) {
