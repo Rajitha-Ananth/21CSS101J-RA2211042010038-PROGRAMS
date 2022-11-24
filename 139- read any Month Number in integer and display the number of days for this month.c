@@ -2,6 +2,7 @@
 void main(){
    int month_number;
    char month_name[15];
+   printf("RA2211042010038\n");
    printf("enter a month number");
    scanf("%d",&month_number);
    switch(month_number)
