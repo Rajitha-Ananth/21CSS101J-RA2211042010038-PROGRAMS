@@ -1,7 +1,8 @@
 #include <stdio.h>
 void main()  
 {  
-    int cpprice,spprice, profit; 
+    int cpprice,spprice, profit;
+    printf("RA2211042010038\n");
     printf("enter cost price");  
     scanf("%d",&cpprice);  
     printf("enter selling price");  
