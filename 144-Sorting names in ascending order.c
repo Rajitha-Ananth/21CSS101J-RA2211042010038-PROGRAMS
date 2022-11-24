@@ -4,6 +4,7 @@ void main()
  {
  char name[30][20],t[20];
  int i,j,n;
+ printf("RA2211042010038\n");
  printf(“enter total number of names :”);
  scanf(“%d”,&n);
  printf(“enter the names\n”);
