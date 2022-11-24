@@ -12,7 +12,7 @@ void main()
          scanf("%d",&a[i][j]);
          }
     }
- printf("Enter the second martrix\n");
+ printf("enter the second martrix\n");
  for(i=0;i<m;i++) {
      for(j=0;j<n;j++) {
          scanf("%d",&b[i][j]);
@@ -23,21 +23,21 @@ void main()
          c[i][j]=a[i][j]+b[i][j];
      }
     }
- printf("First Matrix\n");
+ printf("first matrix\n");
  for(i=0;i<m;i++) {
      for(j=0;j<n;j++) {
          printf("\t%d",a[i][j]);
          printf("\n");
         }
     }
-printf("Second Matrix\n");
+printf("second matrix\n");
  for(i=0;i<m;i++) {
      for(j=0;j<n;j++) {
          printf("\t%d",b[i][j]);
          printf("\n");
      }
     }
- printf("Resultant Matrix\n");
+ printf("resultantmatrix\n");
  for(i=0;i<m;i++) {
      for(j=0;j<n;j++) {
          printf("\t%d",c[i][j]);
