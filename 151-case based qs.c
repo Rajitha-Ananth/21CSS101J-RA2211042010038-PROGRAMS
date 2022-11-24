@@ -9,6 +9,7 @@ Binita wants to know what maximum score he can get. Can you please help him in f
 #include<stdio.h>
 int main() {
 	int n,m,a;
+	printf("RA2211042010038\n");
 	scanf("%d%d",&n,&m);
 	a=2*m*n-m-n;
 	printf("%d",a);
