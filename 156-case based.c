@@ -2,6 +2,7 @@
 #include<stdio.h>
 int main() {
 	int a,b,c;
+	printf("RA2211042010038/n");
 	scanf("%d %d %d",&a,&b,&c);
 	if(a==b==c) 
 	{
