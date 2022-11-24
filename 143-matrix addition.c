@@ -3,6 +3,7 @@ void main()
  {
  int a[10][10],b[10][10],c[10][10];
  int m,n,i,j;
+ printf("RA2211042010038\n");
  printf("enter order of the matirix:");
  scanf("%d%d",&m,&n);
  printf("enter the first matrix\n");
