@@ -2,6 +2,7 @@
 void main()
 {
    int digit;
+   printf("RA2211042010038\n");
    printf("enter a digit between 0 to 9");
    scanf("%d",&digit);
    switch(digit)
