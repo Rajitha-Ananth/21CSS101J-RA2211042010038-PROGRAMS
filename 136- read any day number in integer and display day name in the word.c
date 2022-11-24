@@ -2,6 +2,7 @@
 void main()
 {
    int dayno;
+   printf("RA2211042010038\n");
    printf("enter a number of day");
    scanf("%d",&dayno);
    switch(dayno)
