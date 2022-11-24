@@ -2,6 +2,7 @@
 void main()
  {
  int a[50],n,i,max;
+ printf("RA2211042010038\n");
  printf("enter the value of : ");
  scanf("%d",&n);
  printf("enter the numbers\n");
