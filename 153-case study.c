@@ -12,6 +12,7 @@ Can you help him do the above classification if he gives the salary of the parti
 #include<stdio.h>
 void main() {
 	int n;
+	printf("RA2211042010038\n");
 	scanf("%d",&n);
 	if (n<10)
 	{
