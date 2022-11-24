@@ -6,6 +6,7 @@ void main() {
     char second_name[10];
     char last_name[10];
     char name[100];
+    printf("RA2211042010038\n");
     for(i=0;first_name!='\0';i++) {
         name[i]=first_name[i];
     }
