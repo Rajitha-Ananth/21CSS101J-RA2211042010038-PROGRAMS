@@ -6,6 +6,7 @@ When X and Y are seen as hexadecimal numbers, which is larger?*/
 #include<stdio.h>
 int main() {
 	char x,y;
+	printf("RA2211042010038\n");
 	scanf("%c %c",&x,&y);
 	if(x>y)
 	{
