@@ -2,6 +2,7 @@
 void main() {
     int units,customer_number;
     float charges;
+    printf("RA2211042010038\n");
     printf("enter the customer number and the units consumed:");
     scanf("%d%d",&customer_number,&units);
     if(units<=200) {
