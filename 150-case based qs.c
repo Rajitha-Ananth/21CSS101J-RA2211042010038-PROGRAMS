@@ -5,6 +5,7 @@ and remainder after dividing the amount given by her by the bill amount specifie
 int main() {
 	int a,b;
 	int c,d;
+	printf("RA2211042010038\n");
 	scanf("%d%d",&a,&b);
 	c=a%b;
 	d=a/b;
